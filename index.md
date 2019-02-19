@@ -15,6 +15,7 @@ Discord Self Mute/Deafen | Self-mute/Deafen in Discord ([install instructions](h
 IFTTT Integration | Integrate with [If This Then That (IFTTT)](https://ifttt.com/)  | ✔️ | ✔️ | [tobimori] | [Download](https://github.com/tobimori/streamdeck-ifttt/releases/latest)
 Memory Game | Play the Memory game on Stream Deck | ✔️ | ✔️ | [Elgato](https://github.com/elgatosf) | [Download](https://github.com/elgatosf/streamdeck-memorygame/releases)
 Mic Mute | Quickly mute your mic with one button | ✔️ | ✖️ | [Fred Emmott] | [Download](https://github.com/fredemmott/StreamDeck-MicMute/releases), [Demo](https://youtu.be/WrsqExqfLCg)
+OBS Replay Button | Quickly Start/Stop/Save your Replaybuffer | ✔️ | ✖️ | [Cuddly Cheetah](https://github.com/cuddlycheetah) | [Download](https://github.com/cuddlycheetah/sch.umann.it.obs.replay)
 Stopwatch | Simple stopwatch with two styles | ✔️ | ✖️ | [BarRaider] | [Download](https://github.com/BarRaider/streamdeck-stopwatch/releases/)
 Streaming Remote | Start and stop OBS or XSplit running on another computer ([more info](https://www.reddit.com/r/ElgatoGaming/comments/aeffz9/streamdeck_plugin_start_and_stop_obs_or_xsplit_on/), [install instructions](https://github.com/fredemmott/streaming-remote#requirements)) | ✔️ | ✔️ | [Fred Emmott] | [Download](https://github.com/fredemmott/streaming-remote/releases), [Demo](https://youtu.be/bPNSg1Q2iws)
 VoiceMeeter | Mute, Unmute and modify VoiceMeeter settings | ✔️ | ✖️ | [BarRaider] | [Download](https://github.com/BarRaider/streamdeck-voicemeeter/releases)
